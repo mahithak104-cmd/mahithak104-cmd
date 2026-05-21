@@ -1,11 +1,7 @@
 #  About Me:
-I am a Business Analytics graduate student at the University at Albany (SUNY), graduating in December 2026 with hands-on experience in data analytics, operational reporting, and business problem-solving. I am passionate about transforming complex datasets into meaningful insights that help organizations improve efficiency, optimize processes, and support strategic decision-making.
+I am a graduate student in Business Analytics at the University at Albany (SUNY) with experience in data analytics, operational reporting, and business problem-solving. Proficient in SQL, Python, Excel, and Power BI, I have worked on projects involving data analysis, KPI reporting, dashboard development, and business intelligence across healthcare and operational domains.
 
-My experience includes working with SQL, Python, Excel, Power BI, and data visualization tools to clean, analyze, and interpret large datasets. Through academic projects and professional experience with the New York State Department of Health and SUNY Albany, I have developed dashboards, automated reporting workflows, performed trend analysis, and identified operational inefficiencies using data-driven approaches.
-
-I have worked on projects involving customer churn analysis, healthcare data analytics, KPI reporting, and business intelligence solutions, applying analytical techniques to real-world business challenges. My interests include data analytics, business intelligence, reporting automation, operational analytics, and stakeholder-focused decision support.
-
-This GitHub showcases my projects focused on data analysis, reporting, dashboard development, and business intelligence. I am currently seeking entry-level opportunities in Data Analytics, Business Analytics, Reporting Analytics, and Business Intelligence roles across the United States.<br>
+My academic and professional experience has strengthened my ability to analyze complex datasets, identify trends, and deliver data-driven insights that support business decision-making and process improvement. I am currently seeking entry-level opportunities in Data Analytics, Business Analytics, and Business Intelligence roles within the United States.<br>
 
 
 ## 🌐 Socials:
