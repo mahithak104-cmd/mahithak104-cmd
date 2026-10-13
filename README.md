@@ -3,7 +3,7 @@
 
 🎓 I'm a Master’s student in Business Analytics at the University at Albany (SUNY), passionate about using data, technology, and creative problem-solving to make better business decisions.
 
-💡 I believe every dataset has a story to tell — sometimes you just need a little Python, a few SQL queries, and a lot of curiosity to uncover it! 😄
+I believe every dataset has a story to tell — sometimes you just need a little Python, a few SQL queries, and a lot of curiosity to uncover it! 😄
 
 ## 🚀 What Gets Me Excited?
 
@@ -21,7 +21,7 @@
 
 I'm developing hands-on projects that bring together Python, SQL, data visualization, and machine learning to explore real-world challenges — from detecting SMS spam to analyzing movie data and exploring investment portfolio strategies.
 
-I enjoy the entire process: cleaning messy datasets 🧹, exploring patterns 🔍, building models 🤖, and turning the results into a story people can actually understand.
+I enjoy the entire process: cleaning messy datasets , exploring patterns , building models , and turning the results into a story people can actually understand.
 
 ## 🎯 Where I'm Headed
 
